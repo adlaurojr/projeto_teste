@@ -106,6 +106,8 @@ def main():
 
 
 print("Estou aprendendo Git e GitHub!")
+print("Estou aprendendo Git e GitHub - usando interface gráfica!")
+
 
 if __name__ == '__main__':
     main()
