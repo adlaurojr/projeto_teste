@@ -104,5 +104,8 @@ def main():
     exibir_opcoes()
     escolher_opcao()
 
+
+print("Estou aprendendo Git e GitHub!")
+
 if __name__ == '__main__':
     main()
